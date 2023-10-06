@@ -1,0 +1,66 @@
+h1 {
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+  foint-weight: bold;
+}
+
+#J {
+  
+  color:red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+@keyframes example {
+  from {color: red;}
+  to {color: purple;}
+}
+
+#O {
+  color: orange;
+    animation-name: example2;
+  animation-duration: 4s;
+}
+@keyframes example2 {
+  from {color: orange;}
+  to {color: blue;}
+}
+
+#R {
+  color: yellow;
+      animation-name: example3;
+  animation-duration: 4s;
+}
+@keyframes example3 {
+  from {color: yellow;}
+  to {color: green;}
+}
+
+#D {
+  color: green;
+        animation-name: example4;
+  animation-duration: 4s;
+}
+@keyframes example4 {
+  from {color: green;}
+  to {color: yellow;}
+}
+
+#A {
+  color: blue;
+          animation-name: example5;
+  animation-duration: 4s;
+}
+@keyframes example5 {
+  from {color: blue;}
+  to {color: orange;}
+}
+
+#N {
+  color: purple;
+          animation-name: example6;
+  animation-duration: 4s;
+}
+@keyframes example6 {
+  from {color: purple;}
+  to {color: red;}
+}
