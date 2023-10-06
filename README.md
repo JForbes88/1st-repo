@@ -1,0 +1,1 @@
+# 1st-repo is a simple animation to show some basic HTML and CSS skills. Using HTML I have displayed my name with each letter being a different colour, the animation once it loads will reverse the colour scheme. THis is done using CSS keyframe animations.
